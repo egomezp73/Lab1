@@ -1,2 +1,1 @@
-# Kafka
-Curso Kafka
+# Laboratorio 01 - Apache Kafka
